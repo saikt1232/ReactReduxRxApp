@@ -1,0 +1,10 @@
+create-react-app is used to make the react apps - ezample you can do -> create-react-app sai-app
+So usually in this structure the src will have all the code needed - it will have index.js which will start wiring the content 
+
+Sample jsx to react - 
+
+<div>Sai</div>  - this will be render like this react.createElement({"div", null, "Sai"}) --> tag, props, innerchild
+
+=====
+
+This tutorial is pending since last 10 days !!
